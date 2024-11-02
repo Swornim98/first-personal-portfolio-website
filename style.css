@@ -3,6 +3,7 @@
     margin:0;
     box-sizing: border-box;
     font-family:Amazon,Arial;
+    overflow-x:hidden
 }
 body{
     background-color: hsl(0, 0%, 92%);
